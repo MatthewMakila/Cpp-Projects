@@ -1,0 +1,520 @@
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+1
+Vector 1: -15.9, 7.17, 10.44, 14.4, 15.011, 16.12, 18.531, 53.44, 119.111, 122.12
+Vector 2: -16.1, -11.22, 10.44, 11.211, 15.011, 19.1241, 95.1, 102.33, 107.66, 117.12
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+2
+Vector1 < Vector2: F, F, F, F, F, T, T, T, F, F
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+3
+Vector1 == Vector2: F, F, T, F, T, F, F, F, F, F
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+4
+Vector1 + Vector2: -32, -4.05, 20.88, 25.611, 30.022, 35.2441, 113.631, 155.77, 226.771, 239.24
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+5
+Vector1 * Vector2: 255.99, -80.4474, 108.994, 161.438, 225.33, 308.281, 1762.3, 5468.52, 12823.5, 14302.7
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+6
+Vector1 median: 17.3255
+Vector2 median: 57.1121
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+7
+Vector1 mean: 36.0443
+Vector2 mean: 45.0676
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+8
+Vector1 stdev: 45.1816
+Vector2 stdev: 50.718
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+9
+Thank you for using the Vector Tool
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+1
+Vector 1: -131, -14, 7, 15, 16, 18, 43, 70, 78, 101
+Vector 2: -2, 7, 8, 10, 14, 16, 21, 93, 99, 129
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+2
+Vector1 < Vector2: T, T, T, F, F, F, F, T, T, T
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+3
+Vector1 == Vector2: F, F, F, F, F, F, F, F, F, F
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+4
+Vector1 + Vector2: -133, -7, 15, 25, 30, 34, 64, 163, 177, 230
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+5
+Vector1 * Vector2: 262, -98, 56, 150, 224, 288, 903, 6510, 7722, 13029
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+6
+Vector1 median: 30.5
+Vector2 median: 18.5
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+7
+Vector1 mean: 20.3
+Vector2 mean: 39.5
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+8
+Vector1 stdev: 60.9296
+Vector2 stdev: 45.3856
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+9
+Thank you for using the Vector Tool
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+1
+Vector 1: -57, -9, -2, 2, 27, 90, 123
+Vector 2: -64, -47, -6, -2, 6, 7, 9
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+2
+Vector1 < Vector2: F, F, F, F, F, F, F
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+3
+Vector1 == Vector2: F, F, F, F, F, F, F
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+4
+Vector1 + Vector2: -121, -56, -8, 0, 33, 97, 132
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+5
+Vector1 * Vector2: 3648, 423, 12, -4, 162, 630, 1107
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+6
+Vector1 median: 2
+Vector2 median: -2
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+7
+Vector1 mean: 24.8571
+Vector2 mean: -13.8571
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+8
+Vector1 stdev: 57.2848
+Vector2 stdev: 27.1684
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+9
+Thank you for using the Vector Tool
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+1
+Vector 1: 3.422, 4.45, 5.543, 12.755, 18.87, 44.1, 63.543, 76.12, 109.121
+Vector 2: 6.421, 11.4, 13.175, 16.1, 17.677, 44.1, 44.954, 93.631, 125.11
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+2
+Vector1 < Vector2: T, T, T, T, F, F, F, T, T
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+3
+Vector1 == Vector2: F, F, F, F, F, T, F, F, F
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+4
+Vector1 + Vector2: 9.843, 15.85, 18.718, 28.855, 36.547, 88.2, 108.497, 169.751, 234.231
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+5
+Vector1 * Vector2: 21.9727, 50.73, 73.029, 205.355, 333.565, 1944.81, 2856.51, 7127.19, 13652.1
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+6
+Vector1 median: 18.87
+Vector2 median: 17.677
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+7
+Vector1 mean: 37.5471
+Vector2 mean: 41.3964
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+8
+Vector1 stdev: 35.8657
+Vector2 stdev: 39.2689
+Vector Computations
+
+Choose an option
+1. Display Vectors
+2. Vector comparison (<)
+3. Vector comparison (==)
+4. Vector addition
+5. Vector multiplication
+6. Compute median
+7. Compute mean
+8. Compute Standard Derivation
+9. Exit
+9
+Thank you for using the Vector Tool
